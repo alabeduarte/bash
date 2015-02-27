@@ -1,6 +1,9 @@
-== Bash
+== Bash ==
 
 These are my bash scripts for daily usage.
+
+
+foo bar foo bar
 
 Just clone this repository to `~/.bash` and
 add the following line to your `~/.bash_profile`
